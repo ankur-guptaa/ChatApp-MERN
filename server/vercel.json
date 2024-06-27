@@ -19,7 +19,7 @@
                 "OPTIONS"
             ],
             "headers": {
-                "Access-Control-Allow-Origin": "https://chat-app-server-nine-rouge.vercel.app"
+                "Access-Control-Allow-Origin": "https://chat-app-client-beta-liard.vercel.app"
             }
         }
     ]
